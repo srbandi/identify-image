@@ -1,0 +1,40 @@
+body{
+
+    color:darkblue;
+    background-color: lavenderblush;
+
+}
+.heading{
+
+    width: 80%;
+    font-size: 22px;
+
+}
+
+.names_of_objects,#object_name,#occurcy{
+
+    color: chocolate;
+
+}
+
+#camstuff,#result{
+
+    border: 2px dotted rgb(244, 255, 146);
+    width: 350px;
+    height: 300px;
+
+}
+
+#pictake{
+
+    background: linear-gradient(to right,#28ffe2,#11d4fb);
+
+    width: 40%;
+}
+
+#identify{
+
+    background: linear-gradient(to right,#5377f8,#47dd4a);
+
+    width: 40%;
+}
